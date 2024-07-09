@@ -10,10 +10,12 @@ observatories
     ground-based
         NRT
 algorithm
+    expectation maximisation
     machine learning
         reinforcement learning
 libraries
     Specutils
+    TensorFlow
 data centers
     Data Central
 astronomy
@@ -44,6 +46,7 @@ applications
 science platform
 techniques
     Generative Adversarial Network (GAN)
+    image super-resolution
 open science
 projects
     Gamma-Flash
