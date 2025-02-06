@@ -2,6 +2,7 @@ software
     notebooks
     frameworks
         Bifrost
+        Go.esa
 frameworks
     HTCondor
 applications
