@@ -1,3 +1,6 @@
+computing
+    cloud
+        Google Colab
 software
     notebooks
     frameworks
