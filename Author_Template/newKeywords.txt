@@ -6,6 +6,7 @@ software
     frameworks
         Bifrost
         Go.esa
+    brokers
 frameworks
     HTCondor
 applications
