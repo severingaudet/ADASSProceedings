@@ -20,6 +20,7 @@ algorithm
     expectation maximisation
     machine learning
         reinforcement learning
+        language models
 libraries
     Specutils
     TensorFlow
