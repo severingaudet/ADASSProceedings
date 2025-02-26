@@ -28,6 +28,8 @@ data centers
     Data Central
 astronomy
     !x-ray
+    radio
+        intensity mapping
 archives
     individual
         JCMT Science Archive (JSA)
