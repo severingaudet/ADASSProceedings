@@ -21,6 +21,7 @@ algorithm
     machine learning
         reinforcement learning
         language models
+        generative models
 libraries
     Specutils
     TensorFlow
@@ -51,6 +52,7 @@ observatories
 organisations
     Korea Astronomy and Space Science Institute (KASI)
     National Astronomical Observatory of Japan (NAOJ)
+    South African Radio Astronomy Observatory (SARAO)
 applications
     JupyterLab
 science platform
